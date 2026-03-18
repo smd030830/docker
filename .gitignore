@@ -1,2 +1,5 @@
 # 실제 폴더 이름에 맞춰서 수정
 mysql8/mysql-data/
+
+# MariaDB 데이터 폴더 제외
+mariadb/data/
